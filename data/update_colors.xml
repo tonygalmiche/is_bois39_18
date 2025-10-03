@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <function model="product.template.attribute.value" name="_update_html_colors_from_attribute_values"/>
+</odoo>

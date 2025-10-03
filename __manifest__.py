@@ -18,10 +18,12 @@ InfoSaône - Module Odoo 18 pour Bois 39
         'contacts',
         'web_chatter_position',
         'web_m2x_options',
+        'product',
     ],
     'data' : [
         'security/ir.model.access.csv',
         'views/menu.xml',
+        'views/product_views.xml',
     ],
     "assets": {
         'web.assets_backend': [
